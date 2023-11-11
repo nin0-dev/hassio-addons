@@ -2,7 +2,8 @@
 
 Thanks to williamcorsel for originally making the addon:
 https://github.com/williamcorsel/hassio-addons
-My custom Home Assistant add-ons. Templates thanks to [alexbelgium](https://github.com/alexbelgium/hassio-addons)!
+
+Templates thanks to [alexbelgium](https://github.com/alexbelgium/hassio-addons)!
 
 ## Installation
 
