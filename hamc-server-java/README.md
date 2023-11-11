@@ -1,18 +1,10 @@
-# HAMC Server (Java)
+# PaperMC Addon
 
-This add-on allows for hosting a Minecraft Java server using Home Assistant. Based on the Minecraft server docker by [itzg](https://github.com/itzg/docker-minecraft-server).
+This allows you to run a Paper server on your HAOS instance.
 
-## Configuration
+Special thanks to williamcorsel for making the vanilla server plugin, and to itzg for making the server docker:
 
-All configuration is done using the add-on options. It allows for setting the environment variables found [here](https://github.com/itzg/docker-minecraft-server).
+https://github.com/williamcorsel/hassio-addons
 
-To access the Minecraft server from outside your network, forward port 25565 (TCP) on your router. Then connect using:
+https://github.com/itzg/docker-minecraft-server
 
-```
-<your_ip>:25565
-```
-
-## References
-
-* Thanks to [alexbelgium](https://github.com/alexbelgium/hassio-addons) for the add-on template.
-* Thanks to [itzg](https://github.com/itzg/docker-minecraft-server) for the docker image.
